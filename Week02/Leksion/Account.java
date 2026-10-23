@@ -1,5 +1,3 @@
-package Week02;
-
 // 1. Define the class
 public class Account {
 
